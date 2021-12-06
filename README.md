@@ -1,2 +1,8 @@
 # Kulp-OS
-Kulp os is a basic os supporting higher pc's and has a great ui i mean it does.
+First of all
+# license 
+Modifiation is allowed
+changing and pretending its yours  is not allowed
+
+# info
+just a os
